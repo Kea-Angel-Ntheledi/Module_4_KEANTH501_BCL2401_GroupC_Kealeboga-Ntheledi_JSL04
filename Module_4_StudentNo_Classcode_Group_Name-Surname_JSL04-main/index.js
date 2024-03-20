@@ -21,8 +21,6 @@ let cansLeft = 3; // Any number of cans
 let stockCheck = cansLeft < 5 ? "Time to restock!" : "We're stocked!";
 console.log(stockCheck);
 
-
-
 // #### Challenge 3: Workout IntensityA
 // Based on the current heart rate, determine if the user should drink a Monster Energy drink to boost their workout. 
 // If the heart rate is below 100 bpm, print "Boost needed!", otherwise, print "Energy levels are high!".
