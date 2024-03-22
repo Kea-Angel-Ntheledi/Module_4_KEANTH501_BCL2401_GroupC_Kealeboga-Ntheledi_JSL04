@@ -10,7 +10,7 @@ if (userPreference === "Regular") {
   console.log("User prefers Regular Monster Energy drink.");
 } else {
   console.log("User prefers Sugar-free Monster Energy drink.");
-} 
+}  
 
 // #### Challenge 2: Stock Check
 // You have a variable that tracks the number of Monster Energy cans left in the fridge. 
